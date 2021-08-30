@@ -1,0 +1,10 @@
+selenium
+speech_recognition
+pyttsx3
+googletrans
+webbrowser
+requests
+pprint
+geocoder
+pyperclip
+json
